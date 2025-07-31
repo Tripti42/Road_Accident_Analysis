@@ -45,11 +45,6 @@ The dataset used for this project includes:
 - Weather alone doesn’t ensure road safety—driver behavior remains key.
 - Recommendations include improved **traffic control at intersections**, **public awareness**, and **infrastructure upgrades** on vulnerable road types.
 
----
 
-## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/road-accident-analysis.git
 
