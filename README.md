@@ -11,13 +11,14 @@ This project presents a detailed analysis of road accident data to uncover key t
 
 ## 📂 Dataset
 
+https://1drv.ms/x/c/16600e024850a1d5/EWnVWQanG49CsQ7pCVPIS0IBfjhQYq__pFI7HDFKlDhUCQ?e=tbPx4s
 The dataset used for this project includes:
 - Accident counts by month, time of day, day of the week
 - Casualties by severity and location (urban/rural, junctions, road types)
 - Weather conditions during accidents
 - Year-wise comparison (2021 vs. 2022)
 
-> **Note:** The dataset was cleaned and preprocessed for effective visualization and analysis.
+
 
 ---
 
